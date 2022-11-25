@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="57px" viewBox="0 0 57 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrow" fill-rule="nonzero">
+            <rect id="Rectangle" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="57" height="57"></rect>
+            <rect id="Rectangle-Copy-4" fill="#3D3D3D" x="0" y="0" width="1" height="57"></rect>
+            <g id="down-arrow" transform="translate(21.000000, 24.000000)" fill="#999999">
+                <polygon id="Path" points="8 9.6 0.3 1.9 1.7 0.4 8 6.7 14.3 0.4 15.7 1.9"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="87px" viewBox="0 0 80 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M79,79 L79,1 L1,1 L1,79 L33.3431458,79 L40,85.6568542 L46.6568542,79 L79,79 Z" id="Combined-Shape" stroke="#000000" stroke-width="2" fill="#FEEB35"></path>
+        <g id="Group-3" transform="translate(16.000000, 16.000000)" fill="#000000">
+            <rect id="Rectangle-Copy-13" x="0" y="24.8275862" width="11.5862069" height="23.1724138"></rect>
+            <rect id="Rectangle-Copy-14" x="36.4137931" y="24.8275862" width="11.5862069" height="23.1724138"></rect>
+            <polygon id="Rectangle-Copy-12--Rectangle" points="47.9997433 24.0829199 47.9997433 32.2273951 43.8792954 36.3478429 15.7900881 8.25863563 23.9827736 0.0659501654"></polygon>
+            <polygon id="Rectangle--Rectangle" points="1.47008842e-15 32.2271383 1.47008842e-15 24.0831766 24.0172264 0.0659501654 32.2099119 8.25863563 4.1207046 36.3478429"></polygon>
+        </g>
+    </g>
+</svg>
